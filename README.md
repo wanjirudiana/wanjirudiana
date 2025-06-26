@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👩‍💻 Diana Wanjiru — Digital Protector | Cybersecurity & Forensics Enthusiast 🔐
 
-<!--
-**wanjirudiana/wanjirudiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Curious Mind | Digital Forensics | Threat Analysis | Content Strategy | OSINT Research
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👋 Who Am I?
+
+I'm **Diana Wanjiru**, a curious and passionate digital protector with a foundation in **Cybersecurity** and **Digital Forensics**. My journey into tech began with a simple desire — to understand how digital systems work, and how to secure them from unseen threats.
+
+From cracking forensic clues to crafting secure digital strategies, I thrive at the intersection of security and creativity. Whether it's **hunting vulnerabilities** or **managing impactful digital content**, I do it all with purpose and precision.
+
+
+
+## 🎯 My Mission
+
+> To build safer digital spaces and empower brands to shine online — because being secure shouldn’t mean being silent.
+
+
+## 🛠️ Core Skills
+
+- 🕵️ **Digital Forensics & OSINT**
+- 🔐 **Threat Analysis & Vulnerability Identification**
+- 🛡️ **Cybersecurity Principles**
+- 📢 **Content & Social Media Strategy**
+- 🌐 **Research & Digital Investigation**
+
+
+
+## 📚 Certifications & Learning Highlights
+
+- ✅ **Introduction to Cybersecurity** — Cisco Networking Academy  
+- ✅ **Linux Unhatched** — Cisco Networking Academy  
+- ✅ **Student SOC Program Foundations Training** — Microsoft  
+- ✅ **Introduction to Social Media Marketing** — Coursera  
+- ✅ **Social Media Management** — Coursera  
+
+
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://dianawanjiru.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%2300ffae?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/diana-wanjiru-54a5762a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/wanjirudiana">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+When I'm not analyzing security threats, I'm exploring the power of **digital storytelling**, proving that **security and creativity** can go hand in hand. ✨
+
+---
