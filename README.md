@@ -1,4 +1,4 @@
-# 👩‍💻 Diana Wanjiru — Digital Protector | Cybersecurity & Forensics Enthusiast 🔐
+# 👩‍💻 Diana Wanjiru — Digital Protector | Cybersecurity & Forensics Expert 🔐
 
 ### Curious Mind | Digital Forensics | Threat Analysis | Content Strategy | OSINT Research
 
