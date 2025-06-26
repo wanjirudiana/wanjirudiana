@@ -4,11 +4,16 @@
 
 
 
-## 👋 Who Am I?
+<details>
+  <summary>👋 Who Am I?</summary>
+  <p>
+    I'm <strong>Diana Wanjiru</strong>, a curious and passionate digital protector with a foundation in <strong>Cybersecurity</strong> and <strong>Digital Forensics</strong>. My journey into tech began with a simple desire — to understand how digital systems work, and how to secure them from unseen threats.
+  </p>
+  <p>
+    From cracking forensic clues to crafting secure digital strategies, I thrive at the intersection of security and creativity. Whether it's <strong>hunting vulnerabilities</strong> or <strong>managing impactful digital content</strong>, I do it all with purpose and precision.
+  </p>
+</details>
 
-I'm **Diana Wanjiru**, a curious and passionate digital protector with a foundation in **Cybersecurity** and **Digital Forensics**. My journey into tech began with a simple desire — to understand how digital systems work, and how to secure them from unseen threats.
-
-From cracking forensic clues to crafting secure digital strategies, I thrive at the intersection of security and creativity. Whether it's **hunting vulnerabilities** or **managing impactful digital content**, I do it all with purpose and precision.
 
 
 
