@@ -38,7 +38,9 @@
 - ✅ **Linux Unhatched** — Cisco Networking Academy  
 - ✅ **Student SOC Program Foundations Training** — Microsoft  
 - ✅ **Introduction to Social Media Marketing** — Coursera  
-- ✅ **Social Media Management** — Coursera  
+- ✅ **Social Media Management** — Coursera
+- ✅ **AWS Cloud Practitioner** - AWS
+- ✅ **AWS re/start graduate** _ AWS 
 
 
 
