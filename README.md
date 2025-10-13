@@ -40,7 +40,8 @@
 - ✅ **Introduction to Social Media Marketing** — Coursera  
 - ✅ **Social Media Management** — Coursera
 - ✅ **AWS Cloud Practitioner** - AWS
-- ✅ **AWS re/start graduate** _ AWS 
+- ✅ **AWS re/start graduate** _ AWS
+- ✅ **Cyber Threat Management** - Cyber Shujaa
 
 
 
