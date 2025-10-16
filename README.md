@@ -48,7 +48,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://dianawanjiru.vercel.app/">
+  <a href="(https://wanjirudiana.github.io/)">
     <img src="https://img.shields.io/badge/Portfolio-%2300ffae?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/diana-wanjiru-54a5762a3/">
